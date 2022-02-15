@@ -1,4 +1,4 @@
-module github.com/kyokomi/emoji/v2
+module github.com/kyokomi/emoji
 
 go 1.17
 
